@@ -2,7 +2,7 @@
 
 **Hydrogeologist**
 
-I am an environmental geologist with a master’s degree, experienced in numerical hydrogeological modeling. I am currently developing my Python skills to automate and improve pre- and post-processing workflows.
+I am a hydrogeologist, experienced in numerical hydrogeological modeling. I am currently developing my Python skills to automate and improve pre- and post-processing workflows.
 
 ---
 📚 Programming Skills
